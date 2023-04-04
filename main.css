@@ -1,3 +1,9 @@
 html{
     margin: 0;
 }
+body {
+    background:
+        linear-gradient(rgba(255, 0, 0, 0.882), transparent),
+        linear-gradient(to top left, rgb(11, 204, 11), transparent),
+        linear-gradient(to top right, rgb(13, 13, 213), transparent);
+}
